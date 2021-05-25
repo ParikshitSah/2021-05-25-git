@@ -1,4 +1,4 @@
-# 2021-05-25 GIT
+# 2021-05-25 Git
 
 - `git init` - initialize git repo
 - `git status`- gives you the status
