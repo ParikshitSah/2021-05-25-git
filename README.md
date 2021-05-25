@@ -24,7 +24,7 @@
 - `git push <where> <what>` - sends local to remote
 - `git pull <where> <what>` - pulls remote to local
 
-## BRANCHES
+## Branches
 
 How to fix master -> main
 
