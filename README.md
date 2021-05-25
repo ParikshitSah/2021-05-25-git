@@ -7,3 +7,4 @@
 `git commit -m ""` - commits from git bash
 `git log`- shows the messages in order
 `git log --oneline` - more concise version of git log
+`git diff` - shows you the difference
