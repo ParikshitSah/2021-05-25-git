@@ -24,8 +24,10 @@
 - `git push <where> <what>` - sends local to remote
 - `git pull <where> <what>` - pulls remote to local
 
-## Branches
+## BRANCHES
+
 How to fix master -> main
+
 1. `git checkout -b main`
 2. `git push origin main`
 3. fix default branch in github
