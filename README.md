@@ -18,8 +18,14 @@
 - `.gitignore` - file that contains files that are to be ignored
 - `git add -f <foldername>/.gitkeep` - to forcefully add an empty folder
 
-## remotes
+## Remotes
 
 - `git remote add <NAME> <URL>` - name is usually origin which points to URL
 - `git push <where> <what>` - sends local to remote
 - `git pull <where> <what>` - pulls remote to local
+
+## Branches
+How to fix master -> main
+1. `git checkout -b main`
+2. `git push origin main`
+3. fix default branch in github
